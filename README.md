@@ -1,7 +1,6 @@
 
-# phaser-requirejs
-A requirejs + phaserjs boilerplate.
-The idea is to keep states and additional modules separated so the game doesn't become a huge pile of code.
+# phaser-requirejs-boilerplate
+A require.js + phaser.js file structure starter to keep your game modularized.
 
 # run
 Open a quick server at the root folder:
