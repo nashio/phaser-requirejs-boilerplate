@@ -1,0 +1,21 @@
+{
+  "name": "phaser-requirejs-boilerplate",
+  "version": "0.1",
+  "description": "Phaser + RequireJS",
+
+  "authors": [
+    "nashio"
+  ],
+
+  "license": "MIT",
+
+  "dependencies": {
+    "requirejs": "latest",
+    "underscore" : "latest",
+    "phaser": "latest"
+  },
+
+  "ignore": [
+    "src/libs"
+  ]
+}
